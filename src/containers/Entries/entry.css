@@ -1,0 +1,16 @@
+.entry {
+  margin-bottom: 10px;
+  border-bottom: 1px solid #999;
+  padding-bottom: 8px;
+}
+
+.entry_image-container_image {
+  background-color: whitesmoke;
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  border-radius: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
